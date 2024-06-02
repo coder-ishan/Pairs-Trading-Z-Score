@@ -50,4 +50,5 @@ The notebook is organized as follows:
 
 ## Acknowledgements
 Data Source: [Yahoo Finance ](https://github.com/ranaroussi/yfinance)
+
 References: [https://www.youtube.com/watch?v=jvZ0vuC9oJk](https://www.youtube.com/watch?v=jvZ0vuC9oJk)
